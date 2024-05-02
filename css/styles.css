@@ -1,0 +1,6 @@
+.img {
+    width: 30%;
+    display: block; /* Assurez-vous que l'image est un élément de bloc pour appliquer les marges automatiques */
+    margin: 0 auto; /* Centre l'image horizontalement */
+    border-radius: 3%;
+}
