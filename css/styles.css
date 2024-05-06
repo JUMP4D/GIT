@@ -1,9 +1,14 @@
 .banner {
     width: 100%;
-    display: block; /* Assurez-vous que l'image est un élément de bloc pour appliquer les marges automatiques */
-    margin: 0 auto; /* Centre l'image horizontalement */
+    display: block;
+    margin: 0 auto;
     border-radius: 2%;
 }
+
+.img{
+    border-radius: 1%;
+}
+
 .cmd{
     background-color: #252525;
     color: #F03C2E;
